@@ -1,0 +1,98 @@
+{
+    "default": {
+        "age": 0,
+        "gender": "",
+        "config": {
+            "level": "3x3",
+            "coincidences": 2,
+            "help": "no",
+            "elements": "words",
+            "theme": "MemPy Light Green",
+            "time": {
+                "hours": 0,
+                "minutes": 10,
+                "seconds": 0
+            }
+        }
+    },
+    "facu": {
+        "age": 19.0,
+        "gender": "masculino",
+        "config": {
+            "level": "3x3",
+            "coincidences": 2,
+            "help": "yes",
+            "elements": "words",
+            "theme": "MemPy Light Green",
+            "time": {
+                "hours": 0,
+                "minutes": 10,
+                "seconds": 0
+            }
+        }
+    },
+    "agus": {
+        "age": 20.0,
+        "gender": "masculino",
+        "config": {
+            "level": "3x3",
+            "coincidences": 2,
+            "help": "no",
+            "elements": "words",
+            "theme": "MemPy Light Green",
+            "time": {
+                "hours": 0,
+                "minutes": 10,
+                "seconds": 0
+            }
+        }
+    },
+    "cesar": {
+        "age": 20.0,
+        "gender": "masculino",
+        "config": {
+            "level": "6x6",
+            "coincidences": 2,
+            "help": "yes",
+            "elements": "words",
+            "theme": "MemPy Light Green",
+            "time": {
+                "hours": 0,
+                "minutes": 10,
+                "seconds": 0
+            }
+        }
+    },
+    "adasdasd": {
+        "age": 38.0,
+        "gender": "",
+        "config": {
+            "level": "6x6",
+            "coincidences": 4,
+            "help": "no",
+            "elements": "words",
+            "theme": "MemPy Light Green",
+            "time": {
+                "hours": 0,
+                "minutes": 10,
+                "seconds": 0
+            }
+        }
+    },
+    "cadasdas": {
+        "age": 22.0,
+        "gender": "dsadas",
+        "config": {
+            "level": "3x3",
+            "coincidences": 2,
+            "help": "yes",
+            "elements": "words",
+            "theme": "MemPy Light Green",
+            "time": {
+                "hours": 0,
+                "minutes": 10,
+                "seconds": 0
+            }
+        }
+    }
+}
